@@ -1,0 +1,9 @@
+com\maryam\msasecondclientapp\config\BootStrap.class
+entity\Book.class
+client\defult.class
+com\maryam\msasecondclientapp\config\CrossOriginResourceSharingFilter.class
+com\maryam\msasecondclientapp\service\ExampleService.class
+servlet\myClientServlet.class
+com\maryam\msasecondclientapp\config\Producers.class
+client\myClient.class
+com\maryam\msasecondclientapp\service\HealthCheckService.class
